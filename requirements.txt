@@ -1,1 +1,2 @@
 flox-lib==0.20.1
+hawkcatcher~=3.4.1
