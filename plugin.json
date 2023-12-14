@@ -1,12 +1,12 @@
 {
-    "ID": "",
-    "ActionKeyword": "xx",
-    "Name": "RR-Template",
-    "Description": "Template for my plugins",
-    "Author": "Robert Rennert",
+    "ID": "1459e1f5-3b64-4709-9b10-64709ba88af2",
+    "ActionKeyword": "rr",
+    "Name": "RunRun",
+    "Description": "Get an overview about specified Plugins and change the query for specific commands",
+    "Author": "RrobertRr",
     "Version": "0.1.0",
     "Language": "python",
-    "Website": "https://github.com/rrFlowLauncher/FL_plugin_template",
+    "Website": "https://github.com/rrFlowLauncher/RunRun",
     "IcoPath": "Images\\app.png",
     "ExecuteFileName": "main.py"
 }
