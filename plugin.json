@@ -4,7 +4,7 @@
     "Name": "RunRun",
     "Description": "Get an overview about specified Plugins and change the query for specific commands",
     "Author": "RrobertRr",
-    "Version": "0.1.0",
+    "Version": "1.0.0",
     "Language": "python",
     "Website": "https://github.com/rrFlowLauncher/RunRun",
     "IcoPath": "Images\\app.png",
